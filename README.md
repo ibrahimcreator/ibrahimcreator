@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
+### B.Tech CSE (AI Specialization, IBM Certified) | Software Developer | Technical Support Engineer | QA Test Engineer  
 
-<!--
-**ibrahimcreator/ibrahimcreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about building impactful software solutions, solving technical challenges, and ensuring top-notch quality in development and support.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Programming:** Python, SQL, JavaScript  
+- **AI/ML:** Machine Learning, Deep Learning, TensorFlow, Scikit-learn, Hugging Face  
+- **Web Development:** HTML, CSS, JavaScript, Flask  
+- **Cloud & DevOps:** Git, GitHub, GitHub Actions, GCP basics  
+- **Testing & QA:** Manual Testing, Automation Basics, QA Concepts  
+- **Cybersecurity:** Kali Linux, Windows Server  
+- **Other Tools:** OpenCV, LangChain, VS Code, Postman
+
+---
+
+## 📌 Projects
+- **DigiHealth** – AI-powered disease prediction system  
+- **ICICC’24 Conference Website** – Official multi-page conference portal  
+- **Gesture Recognition System** – Real-time hand gesture detection using ML  
+- **E-Authentication** – OTP-based email verification system  
+
+📍 *Explore my pinned repositories below for detailed code & live demos.*
+
+---
+
+## 🌐 Let's Connect
+- 🌍 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 [Email](mailto:your-email@example.com)  
+- 💻 [Portfolio Website](https://yourportfolio.com)
+
+---
+
+## ⚡ Quick Facts
+- 📍 Open to: Remote | Hybrid | On-site roles  
+- 👨‍💻 Roles: Software Developer | Support Engineer | QA Test Engineer  
+- 📌 Locations: India, US, UK, Canada, Singapore  
+- 🎯 Actively looking for full-time/contract/internship opportunities
