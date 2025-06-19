@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm SYED IBRAHIM A  
 ### B.Tech CSE (AI Specialization, IBM Certified) | Software Developer | Technical Support Engineer | QA Test Engineer  
 
 🌟 Passionate about building impactful software solutions, solving technical challenges, and ensuring top-notch quality in development and support.
