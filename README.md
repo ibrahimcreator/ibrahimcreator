@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SYED IBRAHIM A
+# 👋🏻 Hi, I'm SYED IBRAHIM A
 
 ### 💻 Software Developer | QA Test Engineer | Technical Support Engineer | 🎓 B.Tech CSE (AI, IBM Certified) | Python, SQL, AI/ML, Web Dev, QA, Cloud, Cybersecurity | 🔍 Open to Remote, Hybrid & On-site IT Roles
 
@@ -16,7 +16,7 @@ Official website for the International Conference on Intelligent Computing and C
 
 AI-powered disease prediction system using ML/DL models with a health chatbot for interactive diagnosis and symptom analysis.
 
-### 🖐️ [Real-Time-Hand-Gesture-Recognition](https://github.com/ibrahimcreator/Real-Time-Hand-Gesture-Recognition)
+### 🖐🏻 [Real-Time-Hand-Gesture-Recognition](https://github.com/ibrahimcreator/Real-Time-Hand-Gesture-Recognition)
 
 AI-enabled hand gesture recognition system for deaf and mute communication using OpenCV, MediaPipe, and a trained ML classifier.
 
