@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm SYED IBRAHIM A
+# 👋🏻 Hi, I'm Syed Ibrahim A
 
 ### 💻 Software Developer | QA Test Engineer | Technical Support Engineer | 🎓 B.Tech CSE (AI, IBM Certified) | Python, SQL, AI/ML, Web Dev, QA, Cloud, Cybersecurity | 🔍 Open to Remote, Hybrid & On-site IT Roles
 
@@ -83,9 +83,6 @@ Security:      Basic Cybersecurity, Authentication protocols
   <a href="mailto:ibrahimcreators@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Now-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
 </p>
 
 ---
@@ -102,6 +99,6 @@ Security:      Basic Cybersecurity, Authentication protocols
 
 ---
 
-🎨 *Last updated: 2025*
+🎨 *Last updated: 2026*
 
 
