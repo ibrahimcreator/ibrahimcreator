@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed Ibrahim A
+# Hi, I'm Syed Ibrahim A
 
 ### Software Engineer | Python | AI | Azure
 
