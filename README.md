@@ -1,104 +1,131 @@
-# 👋🏻 Hi, I'm Syed Ibrahim A
+# 👋 Hi, I'm Syed Ibrahim A
 
-### 💻 Software Developer | QA Test Engineer | Technical Support Engineer | 🎓 B.Tech CSE (AI, IBM Certified) | Python, SQL, AI/ML, Web Dev, QA, Cloud, Cybersecurity | 🔍 Open to Remote, Hybrid & On-site IT Roles
+### Software Engineer | Python | AI | Azure
 
-Welcome to my GitHub! I’m an AI-driven Computer Science graduate passionate about building impactful software that merges technology with real-world utility. This is more than just a code repository — it's a live portfolio of innovation, dedication, and future potential.
+I'm a Computer Science and Engineering graduate specializing in Artificial Intelligence, with professional experience in technical support, systems, networking, and application environments.
 
----
+In my current role, I work with Windows and Linux systems, Windows Server, networking, Active Directory, RDP, OS deployment, BIOS/firmware configuration, and system validation.
 
-## 🚀 Featured Projects
+Alongside my professional work, I've been building software and AI projects using Python, Flask, machine learning, computer vision, SQL, and APIs. I'm currently focusing more on software engineering, Microsoft Azure, AI applications, and agentic AI.
 
-### 🌐 [ICICC-24-Official-Website](https://github.com/ibrahimcreator/ICICC-24-Official-Website)
+## 🎓 Background
 
-Official website for the International Conference on Intelligent Computing and Communication 2024, fully designed and developed by me using HTML, CSS, and JavaScript.
+- B.Tech in Computer Science and Engineering – Artificial Intelligence, in collaboration with IBM
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- Technical Support Engineer – Applications and Systems
+- Interested in software engineering, Python development, Azure, and AI
 
-### 🩺 [DigiHealth-AI-Disease-Prediction-With-Chatbot](https://github.com/ibrahimcreator/DigiHealth-AI-Disease-Prediction-With-Chatbot)
+## 🚀 Projects
 
-AI-powered disease prediction system using ML/DL models with a health chatbot for interactive diagnosis and symptom analysis.
+### 🩺 DigiHealth – AI Disease Prediction & Chatbot
 
-### 🖐🏻 [Real-Time-Hand-Gesture-Recognition](https://github.com/ibrahimcreator/Real-Time-Hand-Gesture-Recognition)
+A full-stack AI application built as an academic project for disease prediction and conversational assistance.
 
-AI-enabled hand gesture recognition system for deaf and mute communication using OpenCV, MediaPipe, and a trained ML classifier.
+- Built disease prediction models using patient history and symptoms.
+- Developed a unified model using 42 symptoms.
+- Achieved around 94% average accuracy during project evaluation.
+- Added a Google Gemini Pro-powered chatbot for conversational interaction.
 
-### 🔐 [Secure-EAuth-System-With-QR-and-OTP](https://github.com/ibrahimcreator/Secure-EAuth-System-With-QR-and-OTP)
+**Python · Flask · Pandas · NumPy · Scikit-learn · Machine Learning · Deep Learning · Google Gemini API**
 
-Multi-factor authentication system with Flask, PostgreSQL, and dynamic QR-based OTPs for secure login workflows.
-
-### 😊 [FaceRecognition-OpenCV-Python](https://github.com/ibrahimcreator/FaceRecognition-OpenCV-Python)
-
-Live face recognition system using OpenCV and Python. Real-time detection, user registration, and secure identification.
-
-### 💹 [Real-Time-Blockchain-Tracker](https://github.com/ibrahimcreator/Real-Time-Blockchain-Tracker)
-
-Python desktop app to visualize real-time blockchain data using APIs, Tkinter UI, and asynchronous programming.
-
----
-
-## 🛠️ Tech Stack
-
-```yaml
-Languages:     Python, SQL, JavaScript, HTML, CSS
-Frameworks:    Flask, Bootstrap
-Libraries:     OpenCV, MediaPipe, Scikit-learn, Pandas, NumPy, Matplotlib
-Tools:         Git, GitHub, Postman, Google Gemini Pro, Jupyter Notebook
-Databases:     PostgreSQL
-Cloud:         Basic knowledge in AWS & IBM Cloud
-Security:      Basic Cybersecurity, Authentication protocols
-```
+[View Repository](https://github.com/ibrahimcreator/DigiHealth-AI-Disease-Prediction-With-Chatbot)
 
 ---
 
-## 📊 GitHub Stats
+### 🖐️ Real-Time Hand Gesture Recognition
 
-![SYED IBRAHIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimcreator\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcreator\&layout=compact\&theme=radical)
+A computer vision project for recognizing hand gestures from live video.
 
----
+- Processed real-time video using OpenCV.
+- Used MediaPipe for hand tracking and gesture processing.
+- Built a customizable gesture library.
+- Explored machine learning approaches for gesture classification.
 
-## 🧭 Career Goals
+**Python · OpenCV · MediaPipe · Machine Learning**
 
-✅ Entry-Level Roles:
-
-* Software Developer
-* Python Developer
-* Data Analyst
-* QA Test Engineer
-* Technical Support Engineer
-
-🌍 Work Preferences:
-
-* Remote / Hybrid / On-site
-* Locations: India, US, UK, Canada, Singapore
-* Available: Immediately
+[View Repository](https://github.com/ibrahimcreator/Real-Time-Hand-Gesture-Recognition)
 
 ---
 
+### 🌐 ICICC '24 Official Website
 
-## 🤝 Let's Connect
+Developed the official website for the ICICC '24 International Conference at Bharath University.
 
-<p align="center">
-  <a href="https://linkedin.com/in/ibrahimcreator" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ibrahimcreators@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+- Built responsive pages and UI components.
+- Added conference schedules, registration, and paper submission sections.
+- Focused on usability across different screen sizes.
 
----
+**HTML · CSS · Bootstrap · JavaScript**
 
-> 💡 *“Technology is best when it brings people together. I strive to create tech that speaks for itself.”*
-
-⭐️ Don’t forget to star your favorite projects. I'm always open to feedback, collaborations, and innovative ideas.
+[View Repository](https://github.com/ibrahimcreator/ICICC-24-Official-Website)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimcreator&theme=dracula" alt="GitHub Contribution Graph">
-</p>
+### 🔐 Secure E-Authentication System
+
+A Flask-based authentication project using PostgreSQL and QR-code OTP verification.
+
+- Implemented registration and login.
+- Added QR-code-based OTP verification.
+- Used Flask sessions for authenticated access.
+- Used PostgreSQL for storing application data.
+
+**Python · Flask · PostgreSQL · HTML · CSS · QR Code · OTP**
+
+[View Repository](https://github.com/ibrahimcreator/Secure-EAuth-System-With-QR-and-OTP)
 
 ---
 
-🎨 *Last updated: 2026*
+### 😊 Real-Time Face Recognition
 
+A Python and OpenCV project for detecting and recognizing faces from live video.
 
+**Python · OpenCV · Computer Vision**
+
+[View Repository](https://github.com/ibrahimcreator/FaceRecognition-OpenCV-Python)
+
+---
+
+### 💹 Real-Time Blockchain Tracker
+
+A Python desktop application that retrieves blockchain information through APIs and displays it through a Tkinter interface.
+
+**Python · Tkinter · REST APIs · Requests**
+
+[View Repository](https://github.com/ibrahimcreator/Real-Time-Blockchain-Tracker)
+
+## 🛠️ Skills
+
+**Languages:** Python, SQL, JavaScript, HTML, CSS
+
+**Software Development:** OOP, REST APIs, DSA, SDLC, Debugging, Software Maintenance
+
+**AI / ML:** Machine Learning, Deep Learning, Computer Vision, Scikit-learn, OpenCV, MediaPipe
+
+**Frameworks & Libraries:** Flask, Pandas, NumPy, Matplotlib, Bootstrap
+
+**Cloud & AI:** Microsoft Azure, Azure AI, IBM Cloud, Generative AI
+
+**Databases:** PostgreSQL, SQL
+
+**Systems:** Windows, Linux, Windows Server, Active Directory, Networking, RDP
+
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Postman
+
+## 📚 What I'm Learning Now
+
+I'm currently spending more time on:
+
+- Python software development
+- Backend and REST API development
+- Microsoft Azure
+- Azure AI
+- AI-powered applications
+- Agentic AI and automation
+
+I like learning by building projects and working through real technical problems.
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ibrahimcreator) · [Email](mailto:ibrahimcreators@outlook.com)
